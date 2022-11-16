@@ -1,5 +1,5 @@
 {
-  "name": "Khaos Exchange Tokenlist",
+  "name": "Khaos Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/khaos.png",
   "keywords": [
     "audited",
@@ -9,10 +9,10 @@
   "tags": {
     "type": {
       "name": "official",
-      "description": "official khaos exchange token list"
+      "description": "official khaos token list"
     }
   },
-  "timestamp": "2022-07-10T00:00:00+00:00",
+  "timestamp": "2022-07-12T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 2109,
@@ -69,11 +69,19 @@
       "name": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+    },
+    {
+      "chainId": 2109,
+      "address": "0x8C992cba48189a79204223d106fCB1D797A5F87a",
+      "symbol": "WSAMA",
+      "name": "Wrapped Exosama Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x8C992cba48189a79204223d106fCB1D797A5F87a/logo.png"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
