@@ -1,12 +1,12 @@
-# beamswap-tokenlist
+# exosama-tokenlist
 
 ### Whitelisting instructions
 
 - Fork this repo
   ```
-  gh repo clone beamswap/beamswap-tokenlist
+  gh repo clone beamswap/exosama-tokenlist
   ```
-- Create a folder under *assets/chains/{blockchainName}/{tokenAddress}*
+- Create a folder under *assets/chains/exosama/{tokenAddress}*
 - Add token's icon (logo.png) under the folder created in the previous step
 - Add token's info in the *tokenlist.json* file, in this format:
   ```
@@ -16,7 +16,7 @@
       "symbol": [token_symbol],
       "decimals": [token_decimals],
       "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/[blockchainName]/[token_address]/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/[token_address]/logo.png"
   }
   ```
 - Make a Pull Request to this repo including all of the above.
