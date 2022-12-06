@@ -12,7 +12,7 @@
       "description": "official khaos token list"
     }
   },
-  "timestamp": "2022-07-19T00:00:00+00:00",
+  "timestamp": "2022-07-21T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 2109,
@@ -145,7 +145,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
