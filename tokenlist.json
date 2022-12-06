@@ -141,6 +141,14 @@
       "name": "Gold",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x549ab43056E3489335b47927FFcd4825ce484bA3/logo.png"
+    },
+    {
+      "chainId": 2109,
+      "address": [ "0xf216DC145766a53FFA12C7e93D2F4Ac53fEf6977" ],
+      "symbol": [ "sINU" ],
+      "name": [ "SAMA INU" ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xf216DC145766a53FFA12C7e93D2F4Ac53fEf6977/logo.png"
     }
   ],
   "version": {
