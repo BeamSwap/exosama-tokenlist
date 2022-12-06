@@ -12,7 +12,7 @@
       "description": "official khaos token list"
     }
   },
-  "timestamp": "2022-07-15T00:00:00+00:00",
+  "timestamp": "2022-07-19T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 2109,
@@ -84,7 +84,7 @@
       "symbol": "DNA",
       "name": "DNA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x5193C0c97e1aad75AF97073a73A9a98c3e218aE3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xff6ca2a78E4Dd4871256cc5B63dC8dbf02a36F3D/logo.png"
     },
     {
       "chainId": 2109,
@@ -92,7 +92,7 @@
       "symbol": "BLOOD",
       "name": "Blood Crystals",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x5e3498fF421261c08399De256cEB523E5ca69849/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x76ba6821A834E2d30A699312829f8204830CCF5B/logo.png"
     },
     {
       "chainId": 2109,
@@ -100,7 +100,7 @@
       "symbol": "MOB",
       "name": "Mobidium",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x91C47017C89e7F9D6FB57952F8C172011EDDdC68/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xA1CAAaa65fD4e144c4650F87933705B9A065008e/logo.png"
     },
     {
       "chainId": 2109,
@@ -108,7 +108,7 @@
       "symbol": "PUMPK",
       "name": "Pumpkin",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x29D0ED1D9308DE1bbff6E11A437EB3C7E5C86251/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xb296335B6d4AB9F5e5Dc4bf115621c14ab70136C/logo.png"
     },
     {
       "chainId": 2109,
@@ -116,7 +116,7 @@
       "symbol": "WOOD",
       "name": "Wood",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xdeB4A08c85337be1e09ED6A1E03147EbF8010424/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x0528Ae6c997BA4FfC4d6ADD898a2Cc9f26d4a872/logo.png"
     },
     {
       "chainId": 2109,
@@ -124,7 +124,7 @@
       "symbol": "STONE",
       "name": "Stone",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x2B788B77C4dE27478f20788959B9B744d1Ad65c7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x122EBE2B679cF54Bc8a6e89c1009714b354e2d10/logo.png"
     },
     {
       "chainId": 2109,
@@ -132,7 +132,7 @@
       "symbol": "IRON",
       "name": "Iron",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xD06aB7Ea42f0ADA7297f40D6406E53748a6295EC/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x829191FEC0f25a27c5bDCdBbD0e37E6342b39945/logo.png"
     },
     {
       "chainId": 2109,
@@ -140,12 +140,12 @@
       "symbol": "GOLD",
       "name": "Gold",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xc401d43794B82f05cAD85e26C1adA185f599Dbd2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x549ab43056E3489335b47927FFcd4825ce484bA3/logo.png"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
