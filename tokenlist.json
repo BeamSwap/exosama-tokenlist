@@ -141,7 +141,15 @@
       "name": "Gold",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x549ab43056E3489335b47927FFcd4825ce484bA3/logo.png"
-    }
+    },
+    {
+      "chainId": 2109,
+      "address": "0xc9e0dbcf775519d49cd46afa6cfa60aacae9f539",
+      "name": "Donnie INU",
+      "symbol": "DON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xc9e0dbcf775519d49cd46afa6cfa60aacae9f539/logo.png"
+  }
   ],
   "version": {
     "major": 1,
