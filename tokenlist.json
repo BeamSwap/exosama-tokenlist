@@ -141,6 +141,14 @@
       "name": "Gold",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x549ab43056E3489335b47927FFcd4825ce484bA3/logo.png"
+    },
+    {
+      "chainId": 2109,
+      "address": "0x96335a11FDDB0BFfFC0866A95F5611Ed3Ba7828b",
+      "symbol": "BSAMA",
+      "name": "BabySama",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0x96335a11FDDB0BFfFC0866A95F5611Ed3Ba7828b/logo.png"
     }
   ],
   "version": {
