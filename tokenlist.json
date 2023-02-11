@@ -12,7 +12,7 @@
       "description": "official khaos token list"
     }
   },
-  "timestamp": "2022-07-21T00:00:00+00:00",
+  "timestamp": "2022-08-21T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 2109,
@@ -149,11 +149,11 @@
       "symbol": "DON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/exosama-tokenlist/main/assets/chains/exosama/0xc9e0dbcf775519d49cd46afa6cfa60aacae9f539/logo.png"
-  }
+    }
   ],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
